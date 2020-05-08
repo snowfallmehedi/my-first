@@ -1,6 +1,6 @@
-//C++ code to play guessing a number game
+/*//C++ code to play guessing a number game
 //You only can play it using terminal(console)
-//created by Snowfall2279.. 06/05/2020
+//created by Snowfall2279.. 06/05/2020*/
 
 #include <iostream>
 #include <cmath>
